@@ -15,15 +15,6 @@ Each problem has:
 * `solution.cs`
 * A short `README.md` for the problem.
 
-Example:
-
-```
-/Beecrowd/
-    /1001/
-        solution.cs
-        README.md
-```
-
 ## Technologies
 
 * C#
