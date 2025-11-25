@@ -12,3 +12,4 @@ C:\Users\User\source\repos\ProplemSolving\Beecrowd\obj\Debug\net8.0\refint\Beecr
 C:\Users\User\source\repos\ProplemSolving\Beecrowd\obj\Debug\net8.0\Beecrowd.pdb
 C:\Users\User\source\repos\ProplemSolving\Beecrowd\obj\Debug\net8.0\Beecrowd.genruntimeconfig.cache
 C:\Users\User\source\repos\ProplemSolving\Beecrowd\obj\Debug\net8.0\ref\Beecrowd.dll
+C:\Users\User\source\repos\ProplemSolving\Beecrowd\obj\Debug\net8.0\Beecrowd.sourcelink.json

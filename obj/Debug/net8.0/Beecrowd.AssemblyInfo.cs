@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beecrowd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+555c83591b4b2a4dd6c896cfa76dd2a9cab706d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beecrowd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beecrowd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
