@@ -28,4 +28,4 @@ Calculate the area of a circle given its radius R. Use the formula:
 
 ## 🚀 How to Run
 ```bash
-python solution.py
+C# solution.cs
