@@ -1,27 +1,79 @@
-# Problem Solving in C# (.NET) and Python
+# Problem Solving
 
-This repository contains simple solutions for programming challenges using **C# (.NET)** and **Python**.
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![Python](https://img.shields.io/badge/Python-Algorithms-yellow)
+![Problems](https://img.shields.io/badge/Problems-60-green)
 
-## Purpose
+This repository contains my solutions to programming challenges from different platforms such as **Beecrowd** using:
 
-* Practice problem solving.
-* Improve C# and Python skills.
-* Build a daily programming habit.
-
-## Structure
-
-Each problem has:
-
-* `solution.cs`
-* A short `README.md` for the problem.
-
-## Technologies
-
-* C#
-* .NET
+* C# (.NET)
 * Python
-* Git & GitHub
 
-## Notes
+The goal is to improve **algorithms, data structures, and problem-solving skills** through consistent practice.
+
+---
+
+## 🌐 Platforms
+
+Problems currently solved from:
+
+* **Beecrowd**
+
+Planned platforms:
+
+* LeetCode *(coming soon)*
+* Codeforces *(coming soon)*
+
+---
+
+## 📊 Repository Stats
+
+| Metric           | Count    |
+| ---------------- | -------- |
+| Total Problems   | 60       |
+| C# Solutions     | 40       |
+| Python Solutions | 20       |
+| Platforms        | Beecrowd |
+
+---
+
+## 📚 Problem Index
+
+| Problem         | Platform | C# Solution                                                     | Python Solution                                                   | Explanation                                                                                                                                   |
+| --------------- | -------- | --------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Extremely Basic | Beecrowd | [Code](Beecrowd/Challenges/1001-ExtremelyBasicC%23/Solution.cs) | [Code](Beecrowd/Challenges/1001-ExtremelyBasicPython/solution.py) | [C# README](Beecrowd/Challenges/1001-ExtremelyBasicC%23/README.md) • [Python README](Beecrowd/Challenges/1001-ExtremelyBasicPython/README.md) |
+| Area of Circle  | Beecrowd | [Code](Beecrowd/Challenges/1002-AreaOfCircleC%23/Solution.cs)   | [Code](Beecrowd/Challenges/1002-AreaOfCirclePython/solution.py)   | [C# README](Beecrowd/Challenges/1002-AreaOfCircleC%23/README.md) • [Python README](Beecrowd/Challenges/1002-AreaOfCirclePython/README.md)     |
+
+---
+
+## 📂 Repository Structure
+
+```
+problem-solving
+│
+├── README.md
+│
+└── Beecrowd
+    └── Challenges
+        ├── 1001-ExtremelyBasicC#
+        │   ├── Solution.cs
+        │   └── README.md
+        │
+        ├── 1001-ExtremelyBasicPython
+        │   ├── solution.py
+        │   └── README.md
+        │
+        ├── 1002-AreaOfCircleC#
+        │   ├── Solution.cs
+        │   └── README.md
+        │
+        └── 1002-AreaOfCirclePython
+            ├── solution.py
+            └── README.md
+```
+
+---
+
+## Note
 
 This repository will be updated regularly with new problems and solutions.
