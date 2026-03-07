@@ -28,12 +28,12 @@ Planned platforms:
 
 ## 📊 Repository Stats
 
-| Metric           | Count    |
-| ---------------- | -------- |
-| Total Problems   | 60       |
-| C# Solutions     | 40       |
-| Python Solutions | 20       |
-| Platforms        | Beecrowd |
+| Metric | Count |
+|---|---|
+| Total Problems | 68 |
+| C# Solutions | 34 |
+| Python Solutions | 34 |
+| Platforms | Beecrowd | Beecrowd |
 
 ---
 
