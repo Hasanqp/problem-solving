@@ -1,0 +1,33 @@
+﻿# Beecrowd Challenge 1036 - Bhaskara's Formula
+
+## 📋 Problem Description
+- **Problem ID:** 1036
+- **Title:** Bhaskara's Formula  
+- **Difficulty:** Beginner
+- **Link:** [View Problem](https://judge.beecrowd.com/en/problems/view/1036)
+
+### Problem Statement
+Read three floating-point numbers (A, B, C) and calculate the roots of the quadratic equation using Bhaskara's formula. If calculation is impossible (division by zero or negative square root), print "Impossivel calcular".
+
+## 💡 Solution Approach
+
+### Strategy
+1. Read three float values (A, B, C)
+2. Calculate discriminant: Δ = B² - 4AC
+3. Check for impossible cases:
+   - A = 0 (division by zero)
+   - Δ < 0 (square root of negative)
+4. Calculate roots if possible
+5. Print roots with 5 decimal places
+
+## 🔍 Code Explanation
+
+| Component | Purpose |
+|-----------|---------|
+| `input().split()` | Splits input into three values |
+| `float()` | Converts string to float |
+| `B**2` | Calculates B² |
+| `4 * A * C` | Calculates 4AC |
+| `A == 0 or delta < 0` | Checks impossible cases |
+| `math.sqrt(delta)` | Calculates square root |
+| `{R1:.5f}` | Formats output to 5 decimal places |
