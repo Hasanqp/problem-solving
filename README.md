@@ -33,7 +33,7 @@ Planned platforms:
 | Total Problems | 72 |
 | C# Solutions | 36 |
 | Python Solutions | 36 |
-| Platforms | Beecrowd | 1 (Beecrowd) |
+| Platforms | Beecrowd | Beecrowd | 1 (Beecrowd) |
 ---
 
 ## 📚 Problem Index
