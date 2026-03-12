@@ -35,6 +35,7 @@ Planned platforms:
 | Python Solutions | 39 |
 | Platforms | Beecrowd |
  Beecrowd |
+ Beecrowd |
  Beecrowd | Beecrowd | 1 (Beecrowd) |
 ---
 
