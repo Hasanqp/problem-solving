@@ -29,7 +29,7 @@
 
                 if (number < 0)
                 {
-                    positive++;
+                    negative++;
                 }
             }
 
