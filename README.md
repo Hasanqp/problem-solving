@@ -30,10 +30,11 @@ Planned platforms:
 
 | Metric | Count |
 |---|---|
-| Total Problems | 110 |
-| C# Solutions | 55 |
-| Python Solutions | 55 |
+| Total Problems | 112 |
+| C# Solutions | 56 |
+| Python Solutions | 56 |
 | Platforms | Beecrowd |
+ Beecrowd |
  Beecrowd |
  Beecrowd |
  Beecrowd |
