@@ -25,7 +25,7 @@
                 }
 
                 Console.WriteLine($"Sum={sum}");
-            
+            }
         }
     }
 }
