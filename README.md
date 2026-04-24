@@ -59,6 +59,7 @@ Planned platforms:
  Beecrowd |
  Beecrowd |
  Beecrowd |
+ Beecrowd |
  Beecrowd | Beecrowd | 1 (Beecrowd) |
 ---
 
