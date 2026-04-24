@@ -34,6 +34,7 @@ Planned platforms:
 | C# Solutions | 62 |
 | Python Solutions | 62 |
 | Platforms | Beecrowd |
+ Beecrowd |
  Beecrowd | Beecrowd | 1 (Beecrowd) |
 ---
 
